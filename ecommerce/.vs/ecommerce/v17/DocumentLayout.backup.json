@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{48B46176-27CB-4902-8017-F3E08EB560CB}|ecommerce\\ecommerce.csproj|c:\\users\\user-5\\documents\\github\\nutrnise-web-store\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48B46176-27CB-4902-8017-F3E08EB560CB}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B46176-27CB-4902-8017-F3E08EB560CB}|ecommerce\\ecommerce.csproj|c:\\users\\user-5\\documents\\github\\nutrnise-web-store\\ecommerce\\ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48B46176-27CB-4902-8017-F3E08EB560CB}|ecommerce\\ecommerce.csproj|solutionrelative:ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user-5\\Documents\\GitHub\\Nutrnise-Web-Store\\ecommerce\\ecommerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ecommerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user-5\\Documents\\GitHub\\Nutrnise-Web-Store\\ecommerce\\ecommerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ecommerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T23:04:33.851Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "ecommerce\\Program.cs",
               "ToolTip": "C:\\Users\\user-5\\Documents\\GitHub\\Nutrnise-Web-Store\\ecommerce\\ecommerce\\Program.cs",
               "RelativeToolTip": "ecommerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T20:46:32.778Z",
               "EditorCaption": ""
